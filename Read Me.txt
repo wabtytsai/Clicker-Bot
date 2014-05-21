@@ -1,0 +1,16 @@
+Cookie Clicker Clicker, for Facebook Hackathon
+01/25/2014
+Made by: Chi Hsun Tsai
+
+Requires: 	python 2.7
+			The Python Imaging Library - http://www.pythonware.com/products/pil/
+			Numpy - http://numpy.scipy.org/
+			PyWin - http://sourceforge.net/projects/pywin32/
+
+Open http://orteil.dashnet.org/cookieclicker/ in the background, full size under 1440x900 screen resolution
+Open clicker.py and make sure the giant cookie is visible. Hit run. (This program assumes you are starting fresh!)
+Commands: 	P to start or pause auto clicker.
+		Escape to stop the program. 
+
+The program's cookie bank maybe be under the actual cookie bank due to the latency of the program that causes time to fluctate at about 3% of a second. The program is designed to be save and always go under (because if it is over, it will tell the bot to buy a building that it cannot afford).
+Also it is not capable of buying upgrades and search for golden cookies as of now. 
